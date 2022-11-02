@@ -29,4 +29,8 @@ Git самая популярная система контроля версий
 
     git commit -m "message"
 
+Для экономии времени часто используют функцию, совмещающую git add и git commit -m:
+
+    git commit -am "message"
+
     
