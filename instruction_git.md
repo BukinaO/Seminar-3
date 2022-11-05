@@ -118,5 +118,8 @@
 
     git log --graph
 
+Для просмотра всех веток используется команда:
+
+    git log --oneline --all --graph
     
 
